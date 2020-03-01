@@ -1,0 +1,10 @@
+[OPTIMUM SOLVER] for the first 4 cities: 
+
+[Istanbul, Turkey, Adana, Turkey, Afyon, Turkey, Aksehir, Turkey, Istanbul, Turkey]---3344.193813109967 KM
+[Istanbul, Turkey, Adana, Turkey, Aksehir, Turkey, Afyon, Turkey, Istanbul, Turkey]---4458.925084146623 KM
+[Istanbul, Turkey, Afyon, Turkey, Adana, Turkey, Aksehir, Turkey, Istanbul, Turkey]---4458.925084146623 KM
+[Istanbul, Turkey, Afyon, Turkey, Aksehir, Turkey, Adana, Turkey, Istanbul, Turkey]---5573.656355183279 KM
+[Istanbul, Turkey, Aksehir, Turkey, Afyon, Turkey, Adana, Turkey, Istanbul, Turkey]---5573.656355183279 KM
+[Istanbul, Turkey, Aksehir, Turkey, Adana, Turkey, Afyon, Turkey, Istanbul, Turkey]---6688.387626219935 KM
+
+Total Execution time: 18 ms
