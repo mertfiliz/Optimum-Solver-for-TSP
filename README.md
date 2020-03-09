@@ -1,8 +1,8 @@
 # Optimum-Solver-for-TSP
 
-Optimum Solver for Traveling Salesmen Problem(TSP) In Java
+Optimum Solver for Traveling Salesman Problem(TSP) In Java
 
-The goal of this project is to demonstrate Travelling Salesment Problem (TSP) with using optimum solver algorithm.
+The goal of this project is to demonstrate Travelling Salesman Problem (TSP) with using optimum solver algorithm.
 
 There is a text file which contains cities in the world. Every city has a name, latitude and longitude values. 
 By reading these datas in our program, we are setting our starting position which is Istanbul. 
